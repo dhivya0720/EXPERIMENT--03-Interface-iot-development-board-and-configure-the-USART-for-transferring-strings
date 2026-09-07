@@ -196,7 +196,7 @@ int main(void)
     /* USER CODE END WHILE */
 	  printf("Dhivya Darshnee U");
 	  printf("212225220027\n");
-	  printf("BTECH.IT");
+	  printf("BTECH IT");
 	  HAL_Delay(500);
     /* USER CODE BEGIN 3 */
   }
